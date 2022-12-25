@@ -1,5 +1,5 @@
 ## What's Implemented
-1. Resmapler, TwiddleGenerator Implementation for Data Processing with C/MATLAB
+1. Resmapler, TwiddleGenerator Implementation for Data Processing
 2. Hardware Version Spectrogram GUI Implementation based on Qt
 3. In-place FFT Architecture Implementation with Verilog HDL and We use Quartus IP for FPU(DE2 board used).
 
