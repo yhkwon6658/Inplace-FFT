@@ -1,7 +1,7 @@
 ## What's Implemented
 1. Resmapler, TwiddleGenerator Implementation for Data Processing
 2. Hardware Version Spectrogram GUI Implementation based on Qt
-3. In-place FFT Architecture Implementation with Verilog HDL and We use Quartus IP for FPU(DE2 board used).
+3. In-place FFT Architecture Implementation with Verilog HDL and We use Quartus IP for FPU(DE2 board used)
 
 ## Reference paper
 In-Place FFT Architecture are designed by [L. G. Johnson's Conflict Free Memory Addressing for Dedicated FFT Hardware](https://ieeexplore.ieee.org/document/142032).
