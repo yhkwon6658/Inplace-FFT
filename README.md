@@ -5,7 +5,7 @@
 
 ## Reference paper
 In-Place FFT Architecture are designed by [L. G. Johnson's Conflict Free Memory Addressing for Dedicated FFT Hardware](https://ieeexplore.ieee.org/document/142032).
-Johnson presented only DIT architecture. He didn't prove DIF algorithm and present DIF architecture.
+Johnson presented only DIT architecture. He didn't prove DIF algorithm.
 However, we proved, designed and implemented DIF architecture.
 Compared two architecture(In the paper : DIT, Ours : DIF), you can understand conflict free addressing technique.
 
