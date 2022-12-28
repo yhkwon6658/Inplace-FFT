@@ -13,7 +13,7 @@ Compared two architecture(In the paper : DIT, Ours : DIF), you can understand co
 ![image](https://user-images.githubusercontent.com/120978778/209828748-8ab29ef1-223e-47ca-92ff-32fba7c2438e.png)
 
 ## DEMO
-Our architecture is setted on FFT-Point : 32, Radix : 2.
+Our architecture is setted on FFT-Point : 32, #(num) Sample data : 256
 
 https://user-images.githubusercontent.com/109369687/204363690-38570695-cc74-4868-a109-0807d4b00894.mp4
 
