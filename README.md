@@ -24,12 +24,12 @@ You can generate twiddle factor table from DATA/twiddlegen.c.
 You can't modify radix. Only use radix-2.  
 
 1. TOP module's parameter.
-CLKS_PER_BIT = system clks / bitrate (For UART Communication)
-DATA_LENGTH = #(num) test data sample
-N = FFT-point
-R = log2(N)
-ROMFILE = test data sample file(data must be written for hexadecimal)
-TWIDDLEFILE = twiddle factor table file(data must be written for hexadecimal)
+CLKS_PER_BIT = system clks / bitrate (For UART Communication).  
+DATA_LENGTH = #(num) test data sample.  
+N = FFT-point.  
+R = log2(N).  
+ROMFILE = test data sample file(data must be written for hexadecimal).  
+TWIDDLEFILE = twiddle factor table file(data must be written for hexadecimal).  
 
 2. ADDRgen
 If you change N and R, then, You have to change the number of instantiated ADDRgen_element module.  
