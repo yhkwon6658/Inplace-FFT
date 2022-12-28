@@ -14,7 +14,7 @@ Compared two architecture(In the paper : DIT, Ours : DIF), you can understand co
 
 ## DEMO VIDEO
 Our architecture is setted on FFT-Point : 32, #(num) Sample data : 256.  
-Our system use IEEE 754 floating point SINGLE precision(32-bits).   
+Our system uses IEEE 754 floating point single precision(32-bits).   
 
 https://user-images.githubusercontent.com/109369687/204363690-38570695-cc74-4868-a109-0807d4b00894.mp4
 
