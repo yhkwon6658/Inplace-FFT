@@ -19,7 +19,7 @@ Our system uses IEEE 754 floating point single precision(32-bits).
 https://user-images.githubusercontent.com/109369687/204363690-38570695-cc74-4868-a109-0807d4b00894.mp4
 
 ## You can modify
-You can generate data file from DATA/resample.m.  
+You can generate data file from DATA/Resampler.m(You have to select mode = 1).  
 You can generate twiddle factor table from DATA/twiddlegen.c.  
 You can't modify radix. Only use radix-2.  
 
