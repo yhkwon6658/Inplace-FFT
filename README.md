@@ -27,7 +27,7 @@ You can't modify radix. Only use radix-2.
 CLKS_PER_BIT = system clks / bitrate (For UART Communication).  
 DATA_LENGTH = #(num) test data sample.  
 N = FFT-point.  
-R = log2(N).  
+$$R = log2(N).$$  
 ROMFILE = test data sample file(data must be written for hexadecimal).  
 TWIDDLEFILE = twiddle factor table file(data must be written for hexadecimal).  
 
