@@ -4,13 +4,13 @@ close all;
 %% Put the Input file name and Output file name
 %% Output file must be .txt
 infile = "input\chopin_etude_op25_no11.mp3";
-outfile = "C:output\sample.txt";
+outfile = "output\sample.txt";
 [y, Fs_ori] = audioread(infile);
 %% Select Option(Start time, End time, Sample rate, Write mode)
 START = 5;
 END = 6;
 Fs = 8192;
-mode = 0; % 0 : SW, 1 : HW
+mode = 1; % 0 : SW, 1 : HW
 
 y = y(round(START*Fs_ori):round(END*Fs_ori));
 x = resample(y,Fs,Fs_ori);
